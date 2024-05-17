@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KARTIKEYMISRA
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Web Devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email
 
