@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KARTIKEYMISRA
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Web Devlopment
+- 👀 I’m interested in data analysis
+- 🌱 I’m currently learning Machine Learning and
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email
+- 📫 Reach me by email : mishrakartikey121@gmail.com
 
 <!---
 KARTIKEYMISRA/KARTIKEYMISRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
